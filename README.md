@@ -50,14 +50,15 @@
 - Advanced React Native performance
 - Scalable MERN architectures
 - AI-based recommendations & personalization
+- Cloud deployment & hosting (Firebase, Vercel, AWS basics)
 
 ---
 
 ## 🤝 Open To
-- Mobile development roles
+- Mobile development roles (React Native / SwiftUI)
 - Full-stack MERN projects
-- AI-enhanced application ideas
-- Internships & freelance work
+- AI-enhanced application development
+- Freelance work & long-term collaborations
 
 📫 **Connect with me**
 - GitHub: https://github.com/abdTalks263
